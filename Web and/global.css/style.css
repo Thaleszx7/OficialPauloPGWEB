@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    background-color: #F98E1D;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center; 
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+}
+
+.right-buttons {
+    margin-left: auto;
+    display: flex;
+}
+
+.right-buttons a {
+    margin-left: 20px;
+}
+
+.logo {
+    height: 50px; 
+    margin-right: 1px; 
+}
+
+.title {
+    font-family: "Roboto", sans-serif;
+    font-style:italic;
+    text-align: center;
+    margin: 20px auto;
+    color: white;
+}
+
+.selecionarTipoVeiculo{
+    margin: auto;
+    margin-bottom: 10px;
+
+    padding: 0 200px;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.selecionarMarca{
+    margin: auto;
+    margin-bottom: 10px;
+
+    padding: 0 200px;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.selecionarModelo{
+    margin: auto;
+    margin-bottom: 10px;
+
+    padding: 0 200px;
+
+}
+
+.tfb-query{
+    margin: auto;
+    margin-bottom: 10px;
+
+    padding: 0 200px;
+    font-family: "Roboto", sans-serif;
+
+
+}
